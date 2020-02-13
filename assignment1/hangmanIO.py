@@ -2,23 +2,23 @@
 def fileIO(A):
         import random
         f = open("words.txt",mode = "r",encoding = "utf-8") 
-        print(f.read())
+        #print(f.read())
         lineCount = 0
         with open("words.txt") as wordFile:
         	for i in wordFile:
         		lineCount+=1
-        print(lineCount)
+        #print(lineCount)
         #Generates random number "rand" to pick a word randomly
         endRand = lineCount - 1
-        print(endRand)
+        #print(endRand)
         rand = random.randint(0,endRand)
 
-        print(rand)
+        #print(rand)
         file = open('words.txt')
         all_lines = file.readlines()
         word = all_lines[rand]
         wordLength = len(word) - 1
-        print(word)
+        #print(word)
         f.close()
 
        #Appends each character of the word into a list called A
@@ -27,7 +27,6 @@ def fileIO(A):
 L = []
 A = []
 fileIO(A)
-print(A)
 #generates L same length of A in '_'
 for i in range(len(A)):
         L.append('_')
@@ -71,5 +70,6 @@ while play == True:
                 #If the user guesses wrong six times, the game will end
                 if wrong == 6:
                         play = False
-                        print("GAME OVER!")
+                        print("GAME OVER!") 
+                        print("word was: ",*A)
 
