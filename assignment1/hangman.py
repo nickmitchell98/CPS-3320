@@ -53,7 +53,6 @@ while play == True:
 		print ("BAD GUESS!")
 		#one more wrong answer
 		wrong+=1
-		print(wrong)
 		#If the user guesses wrong six times, the game will end
 		if wrong == 6:
 			play = False
