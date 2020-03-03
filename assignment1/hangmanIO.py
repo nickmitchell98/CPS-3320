@@ -30,6 +30,7 @@ fileIO(A)
 #generates L same length of A in '_'
 for i in range(len(A)):
         L.append('_')
+print(*L)
 #wrong is a counter for how many times the user answered wrong
 wrong = 0 
 play = True
