@@ -26,8 +26,6 @@ candidates = [list(i) for i in zip(optionID, options)]
 for i in range (len(candidates)):
     candidates[i].append(0)
 
-
-
 printCandidates()
 
 #retreives vote from the user
