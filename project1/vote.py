@@ -94,6 +94,7 @@ else:
             
         if keepRunning == "n":
             break
+#sorts vote results by vote tally
 candidatesSort = sorted(candidates, key=itemgetter(2))
 candidatesSort.reverse()
 
