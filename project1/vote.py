@@ -33,15 +33,23 @@ while True:
                 try:
                     vote = int(input("Please vote for candidate by candidate ID: "))
                     break
+
+#This will catch the error and ask for a number again. 
+#Once a number is entered, this try catch loop will be broken, and the program will continue.
+
                 except ValueError:
                     print("That is not a number.  Try again")
 
 if vote in optionID:
+
+    #This matches candidate id with the element position in the list
     candidates [vote - 1][2] += 1
+    #keepRunnung is a variable that asks the user if anyone else wants to vote
     keepRunning = input("Are there any other voters? y/n: ").lower()
     while keepRunning == "y":
         printCandidates()
         while True:
+		#handles exception
                 try:
                     vote = int(input("Please vote for candidate by candidate ID: "))
                     break
@@ -89,6 +97,7 @@ else:
 candidatesSort = sorted(candidates, key=itemgetter(2))
 candidatesSort.reverse()
 
+#Prints out the results in cescending order
 print("Results:")
 print("Place:\tCandidate:\tNumber of Votes:")
 for i in range(len(optionID)):
