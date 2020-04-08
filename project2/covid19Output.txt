@@ -1,0 +1,2045 @@
+This is a list of infected countries associated with their id's:
+CountryName: US
+Country ID: 18
+
+CountryName: Spain
+Country ID: 161
+
+CountryName: Italy
+Country ID: 11
+
+CountryName: France
+Country ID: 7
+
+CountryName: Germany
+Country ID: 8
+
+CountryName: China
+Country ID: 4
+
+CountryName: Iran
+Country ID: 90
+
+CountryName: United Kingdom
+Country ID: 17
+
+CountryName: Turkey
+Country ID: 173
+
+CountryName: Belgium
+Country ID: 33
+
+CountryName: Switzerland
+Country ID: 16
+
+CountryName: Netherlands
+Country ID: 12
+
+CountryName: Canada
+Country ID: 3
+
+CountryName: Brazil
+Country ID: 40
+
+CountryName: Portugal
+Country ID: 141
+
+CountryName: Austria
+Country ID: 2
+
+CountryName: Korea, South
+Country ID: 98
+
+CountryName: Israel
+Country ID: 92
+
+CountryName: Russia
+Country ID: 14
+
+CountryName: Sweden
+Country ID: 15
+
+CountryName: Norway
+Country ID: 13
+
+CountryName: Australia
+Country ID: 1
+
+CountryName: Ireland
+Country ID: 10
+
+CountryName: Denmark
+Country ID: 5
+
+CountryName: Chile
+Country ID: 51
+
+CountryName: India
+Country ID: 88
+
+CountryName: Czechia
+Country ID: 60
+
+CountryName: Poland
+Country ID: 140
+
+CountryName: Romania
+Country ID: 143
+
+CountryName: Japan
+Country ID: 94
+
+CountryName: Pakistan
+Country ID: 134
+
+CountryName: Malaysia
+Country ID: 113
+
+CountryName: Ecuador
+Country ID: 65
+
+CountryName: Philippines
+Country ID: 139
+
+CountryName: Luxembourg
+Country ID: 109
+
+CountryName: Indonesia
+Country ID: 89
+
+CountryName: Peru
+Country ID: 138
+
+CountryName: Saudi Arabia
+Country ID: 150
+
+CountryName: Mexico
+Country ID: 119
+
+CountryName: United Arab Emirates
+Country ID: 176
+
+CountryName: Finland
+Country ID: 6
+
+CountryName: Serbia
+Country ID: 152
+
+CountryName: Thailand
+Country ID: 168
+
+CountryName: Panama
+Country ID: 135
+
+CountryName: Qatar
+Country ID: 142
+
+CountryName: Dominican Republic
+Country ID: 64
+
+CountryName: Greece
+Country ID: 78
+
+CountryName: Colombia
+Country ID: 52
+
+CountryName: South Africa
+Country ID: 159
+
+CountryName: Argentina
+Country ID: 25
+
+CountryName: Ukraine
+Country ID: 175
+
+CountryName: Singapore
+Country ID: 155
+
+CountryName: Iceland
+Country ID: 9
+
+CountryName: Algeria
+Country ID: 21
+
+CountryName: Egypt
+Country ID: 66
+
+CountryName: Croatia
+Country ID: 57
+
+CountryName: Morocco
+Country ID: 124
+
+CountryName: New Zealand
+Country ID: 128
+
+CountryName: Estonia
+Country ID: 70
+
+CountryName: Iraq
+Country ID: 91
+
+CountryName: Slovenia
+Country ID: 157
+
+CountryName: Belarus
+Country ID: 32
+
+CountryName: Moldova
+Country ID: 120
+
+CountryName: Lithuania
+Country ID: 108
+
+CountryName: Hungary
+Country ID: 87
+
+CountryName: Armenia
+Country ID: 26
+
+CountryName: Kuwait
+Country ID: 100
+
+CountryName: Azerbaijan
+Country ID: 27
+
+CountryName: Bahrain
+Country ID: 29
+
+CountryName: Bosnia and Herzegovina
+Country ID: 38
+
+CountryName: Diamond Princess
+Country ID: 61
+
+CountryName: Kazakhstan
+Country ID: 96
+
+CountryName: Cameroon
+Country ID: 48
+
+CountryName: Slovakia
+Country ID: 156
+
+CountryName: Tunisia
+Country ID: 172
+
+CountryName: North Macedonia
+Country ID: 132
+
+CountryName: Bulgaria
+Country ID: 42
+
+CountryName: Latvia
+Country ID: 103
+
+CountryName: Lebanon
+Country ID: 104
+
+CountryName: Andorra
+Country ID: 22
+
+CountryName: Uzbekistan
+Country ID: 178
+
+CountryName: Cyprus
+Country ID: 59
+
+CountryName: Costa Rica
+Country ID: 55
+
+CountryName: Uruguay
+Country ID: 177
+
+CountryName: Afghanistan
+Country ID: 19
+
+CountryName: Oman
+Country ID: 133
+
+CountryName: Albania
+Country ID: 20
+
+CountryName: Cuba
+Country ID: 58
+
+CountryName: Burkina Faso
+Country ID: 43
+
+CountryName: Taiwan*
+Country ID: 166
+
+CountryName: Jordan
+Country ID: 95
+
+CountryName: Cote d'Ivoire
+Country ID: 56
+
+CountryName: Honduras
+Country ID: 86
+
+CountryName: Malta
+Country ID: 116
+
+CountryName: Ghana
+Country ID: 77
+
+CountryName: San Marino
+Country ID: 148
+
+CountryName: Niger
+Country ID: 130
+
+CountryName: Mauritius
+Country ID: 118
+
+CountryName: Kyrgyzstan
+Country ID: 101
+
+CountryName: West Bank and Gaza
+Country ID: 181
+
+CountryName: Nigeria
+Country ID: 131
+
+CountryName: Vietnam
+Country ID: 180
+
+CountryName: Montenegro
+Country ID: 123
+
+CountryName: Senegal
+Country ID: 151
+
+CountryName: Bangladesh
+Country ID: 30
+
+CountryName: Bolivia
+Country ID: 37
+
+CountryName: Georgia
+Country ID: 76
+
+CountryName: Sri Lanka
+Country ID: 162
+
+CountryName: Kosovo
+Country ID: 99
+
+CountryName: Congo (Kinshasa)
+Country ID: 54
+
+CountryName: Kenya
+Country ID: 97
+
+CountryName: Venezuela
+Country ID: 179
+
+CountryName: Guinea
+Country ID: 81
+
+CountryName: Brunei
+Country ID: 41
+
+CountryName: Djibouti
+Country ID: 62
+
+CountryName: Paraguay
+Country ID: 137
+
+CountryName: Cambodia
+Country ID: 47
+
+CountryName: Trinidad and Tobago
+Country ID: 171
+
+CountryName: Rwanda
+Country ID: 144
+
+CountryName: El Salvador
+Country ID: 67
+
+CountryName: Madagascar
+Country ID: 111
+
+CountryName: Guatemala
+Country ID: 80
+
+CountryName: Monaco
+Country ID: 121
+
+CountryName: Liechtenstein
+Country ID: 107
+
+CountryName: Togo
+Country ID: 170
+
+CountryName: Barbados
+Country ID: 31
+
+CountryName: Jamaica
+Country ID: 93
+
+CountryName: Mali
+Country ID: 115
+
+CountryName: Ethiopia
+Country ID: 72
+
+CountryName: Uganda
+Country ID: 174
+
+CountryName: Congo (Brazzaville)
+Country ID: 53
+
+CountryName: Zambia
+Country ID: 183
+
+CountryName: Bahamas
+Country ID: 28
+
+CountryName: Guinea-Bissau
+Country ID: 82
+
+CountryName: Guyana
+Country ID: 83
+
+CountryName: Eritrea
+Country ID: 69
+
+CountryName: Gabon
+Country ID: 74
+
+CountryName: Benin
+Country ID: 35
+
+CountryName: Haiti
+Country ID: 84
+
+CountryName: Tanzania
+Country ID: 167
+
+CountryName: Burma
+Country ID: 44
+
+CountryName: Libya
+Country ID: 106
+
+CountryName: Antigua and Barbuda
+Country ID: 24
+
+CountryName: Maldives
+Country ID: 114
+
+CountryName: Syria
+Country ID: 165
+
+CountryName: Angola
+Country ID: 23
+
+CountryName: Equatorial Guinea
+Country ID: 68
+
+CountryName: Mongolia
+Country ID: 122
+
+CountryName: Namibia
+Country ID: 126
+
+CountryName: Dominica
+Country ID: 63
+
+CountryName: Fiji
+Country ID: 73
+
+CountryName: Laos
+Country ID: 102
+
+CountryName: Liberia
+Country ID: 105
+
+CountryName: Saint Lucia
+Country ID: 146
+
+CountryName: Sudan
+Country ID: 163
+
+CountryName: Grenada
+Country ID: 79
+
+CountryName: Saint Kitts and Nevis
+Country ID: 145
+
+CountryName: Seychelles
+Country ID: 153
+
+CountryName: Zimbabwe
+Country ID: 184
+
+CountryName: Chad
+Country ID: 50
+
+CountryName: Eswatini
+Country ID: 71
+
+CountryName: Mozambique
+Country ID: 125
+
+CountryName: Suriname
+Country ID: 164
+
+CountryName: MS Zaandam
+Country ID: 110
+
+CountryName: Nepal
+Country ID: 127
+
+CountryName: Belize
+Country ID: 34
+
+CountryName: Central African Republic
+Country ID: 49
+
+CountryName: Malawi
+Country ID: 112
+
+CountryName: Saint Vincent and the Grenadines
+Country ID: 147
+
+CountryName: Somalia
+Country ID: 158
+
+CountryName: Cabo Verde
+Country ID: 46
+
+CountryName: Holy See
+Country ID: 85
+
+CountryName: Sierra Leone
+Country ID: 154
+
+CountryName: Botswana
+Country ID: 39
+
+CountryName: Mauritania
+Country ID: 117
+
+CountryName: Nicaragua
+Country ID: 129
+
+CountryName: Bhutan
+Country ID: 36
+
+CountryName: Gambia
+Country ID: 75
+
+CountryName: Sao Tome and Principe
+Country ID: 149
+
+CountryName: Western Sahara
+Country ID: 182
+
+CountryName: Burundi
+Country ID: 45
+
+CountryName: Papua New Guinea
+Country ID: 136
+
+CountryName: South Sudan
+Country ID: 160
+
+CountryName: Timor-Leste
+Country ID: 169
+
+
+
+This is a list of world data by countries:
+Country Name: US
+Country ID: 18
+Total Confirmed Cases:  399979
+Total Existing Cases:  0
+Total Deaths: 12912
+Total Recovered:  22539
+Country US is located at -100.0 longitude and 40.0 latitude.
+
+Country Name: Spain
+Country ID: 161
+Total Confirmed Cases:  146690
+Total Existing Cases:  84114
+Total Deaths: 14555
+Total Recovered:  48021
+Country Spain is located at -3.74922 longitude and 40.463667 latitude.
+
+Country Name: Italy
+Country ID: 11
+Total Confirmed Cases:  135586
+Total Existing Cases:  94067
+Total Deaths: 17127
+Total Recovered:  24392
+Country Italy is located at 12.5674 longitude and 41.8719 latitude.
+
+Country Name: France
+Country ID: 7
+Total Confirmed Cases:  110070
+Total Existing Cases:  80204
+Total Deaths: 10343
+Total Recovered:  19523
+Country France is located at 2.2137 longitude and 46.2276 latitude.
+
+Country Name: Germany
+Country ID: 8
+Total Confirmed Cases:  109329
+Total Existing Cases:  71152
+Total Deaths: 2096
+Total Recovered:  36081
+Country Germany is located at 10.4515 longitude and 51.1657 latitude.
+
+Country Name: China
+Country ID: 4
+Total Confirmed Cases:  82809
+Total Existing Cases:  1905
+Total Deaths: 3337
+Total Recovered:  77567
+Country China is located at 114.3055 longitude and 30.5928 latitude.
+
+Country Name: Iran
+Country ID: 90
+Total Confirmed Cases:  64586
+Total Existing Cases:  33554
+Total Deaths: 3993
+Total Recovered:  27039
+Country Iran is located at 53.688046 longitude and 32.427908 latitude.
+
+Country Name: United Kingdom
+Country ID: 17
+Total Confirmed Cases:  55957
+Total Existing Cases:  49454
+Total Deaths: 6171
+Total Recovered:  332
+Country United Kingdom is located at -3.0 longitude and 55.0 latitude.
+
+Country Name: Turkey
+Country ID: 173
+Total Confirmed Cases:  34109
+Total Existing Cases:  31802
+Total Deaths: 725
+Total Recovered:  1582
+Country Turkey is located at 35.2433 longitude and 38.9637 latitude.
+
+Country Name: Belgium
+Country ID: 33
+Total Confirmed Cases:  23403
+Total Existing Cases:  16482
+Total Deaths: 2240
+Total Recovered:  4681
+Country Belgium is located at 4.469936 longitude and 50.8333 latitude.
+
+Country Name: Switzerland
+Country ID: 16
+Total Confirmed Cases:  22789
+Total Existing Cases:  13227
+Total Deaths: 858
+Total Recovered:  8704
+Country Switzerland is located at 8.2275 longitude and 46.8182 latitude.
+
+Country Name: Netherlands
+Country ID: 12
+Total Confirmed Cases:  20678
+Total Existing Cases:  18151
+Total Deaths: 2255
+Total Recovered:  272
+Country Netherlands is located at 5.55 longitude and 52.3167 latitude.
+
+Country Name: Canada
+Country ID: 3
+Total Confirmed Cases:  17897
+Total Existing Cases:  0
+Total Deaths: 381
+Total Recovered:  4047
+Country Canada is located at -95.001 longitude and 60.001 latitude.
+
+Country Name: Brazil
+Country ID: 40
+Total Confirmed Cases:  14152
+Total Existing Cases:  13326
+Total Deaths: 699
+Total Recovered:  127
+Country Brazil is located at -51.9253 longitude and -14.235 latitude.
+
+Country Name: Portugal
+Country ID: 141
+Total Confirmed Cases:  13141
+Total Existing Cases:  12565
+Total Deaths: 380
+Total Recovered:  196
+Country Portugal is located at -8.2245 longitude and 39.3999 latitude.
+
+Country Name: Austria
+Country ID: 2
+Total Confirmed Cases:  12881
+Total Existing Cases:  8096
+Total Deaths: 273
+Total Recovered:  4512
+Country Austria is located at 14.5501 longitude and 47.5162 latitude.
+
+Country Name: Korea, South
+Country ID: 98
+Total Confirmed Cases:  10384
+Total Existing Cases:  3408
+Total Deaths: 200
+Total Recovered:  6776
+Country Korea, South is located at 127.766922 longitude and 35.907757 latitude.
+
+Country Name: Israel
+Country ID: 92
+Total Confirmed Cases:  9404
+Total Existing Cases:  8531
+Total Deaths: 72
+Total Recovered:  801
+Country Israel is located at 34.851612 longitude and 31.046051 latitude.
+
+Country Name: Russia
+Country ID: 14
+Total Confirmed Cases:  8672
+Total Existing Cases:  8029
+Total Deaths: 63
+Total Recovered:  580
+Country Russia is located at 105.3188 longitude and 61.524 latitude.
+
+Country Name: Sweden
+Country ID: 15
+Total Confirmed Cases:  8419
+Total Existing Cases:  7527
+Total Deaths: 687
+Total Recovered:  205
+Country Sweden is located at 18.6435 longitude and 60.1282 latitude.
+
+Country Name: Norway
+Country ID: 13
+Total Confirmed Cases:  6086
+Total Existing Cases:  5961
+Total Deaths: 93
+Total Recovered:  32
+Country Norway is located at 8.4689 longitude and 60.472 latitude.
+
+Country Name: Australia
+Country ID: 1
+Total Confirmed Cases:  6010
+Total Existing Cases:  4880
+Total Deaths: 50
+Total Recovered:  1080
+Country Australia is located at 133.0 longitude and -25.0 latitude.
+
+Country Name: Ireland
+Country ID: 10
+Total Confirmed Cases:  5709
+Total Existing Cases:  5474
+Total Deaths: 210
+Total Recovered:  25
+Country Ireland is located at -7.6921 longitude and 53.1424 latitude.
+
+Country Name: Denmark
+Country ID: 5
+Total Confirmed Cases:  5581
+Total Existing Cases:  3601
+Total Deaths: 218
+Total Recovered:  1762
+Country Denmark is located at 10.0 longitude and 56.0 latitude.
+
+Country Name: Chile
+Country ID: 51
+Total Confirmed Cases:  5546
+Total Existing Cases:  4383
+Total Deaths: 48
+Total Recovered:  1115
+Country Chile is located at -71.543 longitude and -35.6751 latitude.
+
+Country Name: India
+Country ID: 88
+Total Confirmed Cases:  5480
+Total Existing Cases:  4848
+Total Deaths: 164
+Total Recovered:  468
+Country India is located at 78.96288 longitude and 20.593684 latitude.
+
+Country Name: Czechia
+Country ID: 60
+Total Confirmed Cases:  5033
+Total Existing Cases:  4761
+Total Deaths: 91
+Total Recovered:  181
+Country Czechia is located at 15.473 longitude and 49.8175 latitude.
+
+Country Name: Poland
+Country ID: 140
+Total Confirmed Cases:  5000
+Total Existing Cases:  4642
+Total Deaths: 136
+Total Recovered:  222
+Country Poland is located at 19.1451 longitude and 51.9194 latitude.
+
+Country Name: Romania
+Country ID: 143
+Total Confirmed Cases:  4761
+Total Existing Cases:  4018
+Total Deaths: 215
+Total Recovered:  528
+Country Romania is located at 24.9668 longitude and 45.9432 latitude.
+
+Country Name: Japan
+Country ID: 94
+Total Confirmed Cases:  4257
+Total Existing Cases:  3542
+Total Deaths: 93
+Total Recovered:  622
+Country Japan is located at 138.252924 longitude and 36.204824 latitude.
+
+Country Name: Pakistan
+Country ID: 134
+Total Confirmed Cases:  4183
+Total Existing Cases:  3658
+Total Deaths: 58
+Total Recovered:  467
+Country Pakistan is located at 69.3451 longitude and 30.3753 latitude.
+
+Country Name: Malaysia
+Country ID: 113
+Total Confirmed Cases:  4119
+Total Existing Cases:  2567
+Total Deaths: 65
+Total Recovered:  1487
+Country Malaysia is located at 101.975766 longitude and 4.210484 latitude.
+
+Country Name: Ecuador
+Country ID: 65
+Total Confirmed Cases:  3995
+Total Existing Cases:  3635
+Total Deaths: 220
+Total Recovered:  140
+Country Ecuador is located at -78.1834 longitude and -1.8312 latitude.
+
+Country Name: Philippines
+Country ID: 139
+Total Confirmed Cases:  3870
+Total Existing Cases:  3592
+Total Deaths: 182
+Total Recovered:  96
+Country Philippines is located at 121.774017 longitude and 12.879721 latitude.
+
+Country Name: Luxembourg
+Country ID: 109
+Total Confirmed Cases:  2970
+Total Existing Cases:  2426
+Total Deaths: 44
+Total Recovered:  500
+Country Luxembourg is located at 6.1296 longitude and 49.8153 latitude.
+
+Country Name: Indonesia
+Country ID: 89
+Total Confirmed Cases:  2956
+Total Existing Cases:  2494
+Total Deaths: 240
+Total Recovered:  222
+Country Indonesia is located at 113.9213 longitude and -0.7893 latitude.
+
+Country Name: Peru
+Country ID: 138
+Total Confirmed Cases:  2954
+Total Existing Cases:  1546
+Total Deaths: 107
+Total Recovered:  1301
+Country Peru is located at -75.0152 longitude and -9.19 latitude.
+
+Country Name: Saudi Arabia
+Country ID: 150
+Total Confirmed Cases:  2932
+Total Existing Cases:  2276
+Total Deaths: 41
+Total Recovered:  615
+Country Saudi Arabia is located at 45.079162 longitude and 23.885942 latitude.
+
+Country Name: Mexico
+Country ID: 119
+Total Confirmed Cases:  2785
+Total Existing Cases:  2011
+Total Deaths: 141
+Total Recovered:  633
+Country Mexico is located at -102.5528 longitude and 23.6345 latitude.
+
+Country Name: United Arab Emirates
+Country ID: 176
+Total Confirmed Cases:  2659
+Total Existing Cases:  2408
+Total Deaths: 12
+Total Recovered:  239
+Country United Arab Emirates is located at 53.847818 longitude and 23.424076 latitude.
+
+Country Name: Finland
+Country ID: 6
+Total Confirmed Cases:  2487
+Total Existing Cases:  2147
+Total Deaths: 40
+Total Recovered:  300
+Country Finland is located at 25.7482 longitude and 61.9241 latitude.
+
+Country Name: Serbia
+Country ID: 152
+Total Confirmed Cases:  2447
+Total Existing Cases:  2386
+Total Deaths: 61
+Total Recovered:  0
+Country Serbia is located at 21.0059 longitude and 44.0165 latitude.
+
+Country Name: Thailand
+Country ID: 168
+Total Confirmed Cases:  2369
+Total Existing Cases:  1451
+Total Deaths: 30
+Total Recovered:  888
+Country Thailand is located at 100.992541 longitude and 15.870032 latitude.
+
+Country Name: Panama
+Country ID: 135
+Total Confirmed Cases:  2249
+Total Existing Cases:  2174
+Total Deaths: 59
+Total Recovered:  16
+Country Panama is located at -80.7821 longitude and 8.538 latitude.
+
+Country Name: Qatar
+Country ID: 142
+Total Confirmed Cases:  2210
+Total Existing Cases:  2026
+Total Deaths: 6
+Total Recovered:  178
+Country Qatar is located at 51.1839 longitude and 25.3548 latitude.
+
+Country Name: Dominican Republic
+Country ID: 64
+Total Confirmed Cases:  1956
+Total Existing Cases:  1822
+Total Deaths: 98
+Total Recovered:  36
+Country Dominican Republic is located at -70.1627 longitude and 18.7357 latitude.
+
+Country Name: Greece
+Country ID: 78
+Total Confirmed Cases:  1832
+Total Existing Cases:  1482
+Total Deaths: 81
+Total Recovered:  269
+Country Greece is located at 21.8243 longitude and 39.0742 latitude.
+
+Country Name: Colombia
+Country ID: 52
+Total Confirmed Cases:  1780
+Total Existing Cases:  1630
+Total Deaths: 50
+Total Recovered:  100
+Country Colombia is located at -74.2973 longitude and 4.5709 latitude.
+
+Country Name: South Africa
+Country ID: 159
+Total Confirmed Cases:  1749
+Total Existing Cases:  1641
+Total Deaths: 13
+Total Recovered:  95
+Country South Africa is located at 22.9375 longitude and -30.5595 latitude.
+
+Country Name: Argentina
+Country ID: 25
+Total Confirmed Cases:  1715
+Total Existing Cases:  1315
+Total Deaths: 62
+Total Recovered:  338
+Country Argentina is located at -63.6167 longitude and -38.4161 latitude.
+
+Country Name: Ukraine
+Country ID: 175
+Total Confirmed Cases:  1668
+Total Existing Cases:  1581
+Total Deaths: 52
+Total Recovered:  35
+Country Ukraine is located at 31.1656 longitude and 48.3794 latitude.
+
+Country Name: Singapore
+Country ID: 155
+Total Confirmed Cases:  1623
+Total Existing Cases:  1211
+Total Deaths: 6
+Total Recovered:  406
+Country Singapore is located at 103.8333 longitude and 1.2833 latitude.
+
+Country Name: Iceland
+Country ID: 9
+Total Confirmed Cases:  1616
+Total Existing Cases:  977
+Total Deaths: 6
+Total Recovered:  633
+Country Iceland is located at -19.0208 longitude and 64.9631 latitude.
+
+Country Name: Algeria
+Country ID: 21
+Total Confirmed Cases:  1468
+Total Existing Cases:  1162
+Total Deaths: 193
+Total Recovered:  113
+Country Algeria is located at 1.6596 longitude and 28.0339 latitude.
+
+Country Name: Egypt
+Country ID: 66
+Total Confirmed Cases:  1450
+Total Existing Cases:  1080
+Total Deaths: 94
+Total Recovered:  276
+Country Egypt is located at 30.802498 longitude and 26.820553 latitude.
+
+Country Name: Croatia
+Country ID: 57
+Total Confirmed Cases:  1343
+Total Existing Cases:  1145
+Total Deaths: 19
+Total Recovered:  179
+Country Croatia is located at 15.2 longitude and 45.1 latitude.
+
+Country Name: Morocco
+Country ID: 124
+Total Confirmed Cases:  1242
+Total Existing Cases:  1054
+Total Deaths: 91
+Total Recovered:  97
+Country Morocco is located at -7.0926 longitude and 31.7917 latitude.
+
+Country Name: New Zealand
+Country ID: 128
+Total Confirmed Cases:  1210
+Total Existing Cases:  927
+Total Deaths: 1
+Total Recovered:  282
+Country New Zealand is located at 174.886 longitude and -40.9006 latitude.
+
+Country Name: Estonia
+Country ID: 70
+Total Confirmed Cases:  1185
+Total Existing Cases:  1089
+Total Deaths: 24
+Total Recovered:  72
+Country Estonia is located at 25.0136 longitude and 58.5953 latitude.
+
+Country Name: Iraq
+Country ID: 91
+Total Confirmed Cases:  1122
+Total Existing Cases:  684
+Total Deaths: 65
+Total Recovered:  373
+Country Iraq is located at 43.679291 longitude and 33.223191 latitude.
+
+Country Name: Slovenia
+Country ID: 157
+Total Confirmed Cases:  1091
+Total Existing Cases:  931
+Total Deaths: 40
+Total Recovered:  120
+Country Slovenia is located at 14.9955 longitude and 46.1512 latitude.
+
+Country Name: Belarus
+Country ID: 32
+Total Confirmed Cases:  1066
+Total Existing Cases:  976
+Total Deaths: 13
+Total Recovered:  77
+Country Belarus is located at 27.9534 longitude and 53.7098 latitude.
+
+Country Name: Moldova
+Country ID: 120
+Total Confirmed Cases:  1056
+Total Existing Cases:  992
+Total Deaths: 24
+Total Recovered:  40
+Country Moldova is located at 28.3699 longitude and 47.4116 latitude.
+
+Country Name: Lithuania
+Country ID: 108
+Total Confirmed Cases:  912
+Total Existing Cases:  889
+Total Deaths: 15
+Total Recovered:  8
+Country Lithuania is located at 23.8813 longitude and 55.1694 latitude.
+
+Country Name: Hungary
+Country ID: 87
+Total Confirmed Cases:  895
+Total Existing Cases:  743
+Total Deaths: 58
+Total Recovered:  94
+Country Hungary is located at 19.5033 longitude and 47.1625 latitude.
+
+Country Name: Armenia
+Country ID: 26
+Total Confirmed Cases:  881
+Total Existing Cases:  758
+Total Deaths: 9
+Total Recovered:  114
+Country Armenia is located at 45.0382 longitude and 40.0691 latitude.
+
+Country Name: Kuwait
+Country ID: 100
+Total Confirmed Cases:  855
+Total Existing Cases:  743
+Total Deaths: 1
+Total Recovered:  111
+Country Kuwait is located at 47.481766 longitude and 29.31166 latitude.
+
+Country Name: Azerbaijan
+Country ID: 27
+Total Confirmed Cases:  822
+Total Existing Cases:  751
+Total Deaths: 8
+Total Recovered:  63
+Country Azerbaijan is located at 47.5769 longitude and 40.1431 latitude.
+
+Country Name: Bahrain
+Country ID: 29
+Total Confirmed Cases:  821
+Total Existing Cases:  349
+Total Deaths: 5
+Total Recovered:  467
+Country Bahrain is located at 50.55 longitude and 26.0275 latitude.
+
+Country Name: Bosnia and Herzegovina
+Country ID: 38
+Total Confirmed Cases:  799
+Total Existing Cases:  686
+Total Deaths: 34
+Total Recovered:  79
+Country Bosnia and Herzegovina is located at 17.6791 longitude and 43.9159 latitude.
+
+Country Name: Diamond Princess
+Country ID: 61
+Total Confirmed Cases:  712
+Total Existing Cases:  82
+Total Deaths: 11
+Total Recovered:  619
+Country Diamond Princess is located at None longitude and None latitude.
+
+Country Name: Kazakhstan
+Country ID: 96
+Total Confirmed Cases:  709
+Total Existing Cases:  648
+Total Deaths: 7
+Total Recovered:  54
+Country Kazakhstan is located at 66.9237 longitude and 48.0196 latitude.
+
+Country Name: Cameroon
+Country ID: 48
+Total Confirmed Cases:  685
+Total Existing Cases:  616
+Total Deaths: 9
+Total Recovered:  60
+Country Cameroon is located at 11.5021 longitude and 3.848 latitude.
+
+Country Name: Slovakia
+Country ID: 156
+Total Confirmed Cases:  682
+Total Existing Cases:  667
+Total Deaths: 2
+Total Recovered:  13
+Country Slovakia is located at 19.699 longitude and 48.669 latitude.
+
+Country Name: Tunisia
+Country ID: 172
+Total Confirmed Cases:  623
+Total Existing Cases:  575
+Total Deaths: 23
+Total Recovered:  25
+Country Tunisia is located at 9.537499 longitude and 33.886917 latitude.
+
+Country Name: North Macedonia
+Country ID: 132
+Total Confirmed Cases:  617
+Total Existing Cases:  553
+Total Deaths: 29
+Total Recovered:  35
+Country North Macedonia is located at 21.7453 longitude and 41.6086 latitude.
+
+Country Name: Bulgaria
+Country ID: 42
+Total Confirmed Cases:  593
+Total Existing Cases:  527
+Total Deaths: 24
+Total Recovered:  42
+Country Bulgaria is located at 25.4858 longitude and 42.7339 latitude.
+
+Country Name: Latvia
+Country ID: 103
+Total Confirmed Cases:  577
+Total Existing Cases:  559
+Total Deaths: 2
+Total Recovered:  16
+Country Latvia is located at 24.6032 longitude and 56.8796 latitude.
+
+Country Name: Lebanon
+Country ID: 104
+Total Confirmed Cases:  575
+Total Existing Cases:  494
+Total Deaths: 19
+Total Recovered:  62
+Country Lebanon is located at 35.8623 longitude and 33.8547 latitude.
+
+Country Name: Andorra
+Country ID: 22
+Total Confirmed Cases:  564
+Total Existing Cases:  489
+Total Deaths: 23
+Total Recovered:  52
+Country Andorra is located at 1.5218 longitude and 42.5063 latitude.
+
+Country Name: Uzbekistan
+Country ID: 178
+Total Confirmed Cases:  545
+Total Existing Cases:  512
+Total Deaths: 3
+Total Recovered:  30
+Country Uzbekistan is located at 64.585262 longitude and 41.377491 latitude.
+
+Country Name: Cyprus
+Country ID: 59
+Total Confirmed Cases:  494
+Total Existing Cases:  438
+Total Deaths: 9
+Total Recovered:  47
+Country Cyprus is located at 33.4299 longitude and 35.1264 latitude.
+
+Country Name: Costa Rica
+Country ID: 55
+Total Confirmed Cases:  483
+Total Existing Cases:  457
+Total Deaths: 2
+Total Recovered:  24
+Country Costa Rica is located at -83.7534 longitude and 9.7489 latitude.
+
+Country Name: Uruguay
+Country ID: 177
+Total Confirmed Cases:  424
+Total Existing Cases:  267
+Total Deaths: 7
+Total Recovered:  150
+Country Uruguay is located at -55.7658 longitude and -32.5228 latitude.
+
+Country Name: Afghanistan
+Country ID: 19
+Total Confirmed Cases:  423
+Total Existing Cases:  391
+Total Deaths: 14
+Total Recovered:  18
+Country Afghanistan is located at 67.709953 longitude and 33.93911 latitude.
+
+Country Name: Oman
+Country ID: 133
+Total Confirmed Cases:  419
+Total Existing Cases:  345
+Total Deaths: 2
+Total Recovered:  72
+Country Oman is located at 55.923255 longitude and 21.512583 latitude.
+
+Country Name: Albania
+Country ID: 20
+Total Confirmed Cases:  400
+Total Existing Cases:  224
+Total Deaths: 22
+Total Recovered:  154
+Country Albania is located at 20.1683 longitude and 41.1533 latitude.
+
+Country Name: Cuba
+Country ID: 58
+Total Confirmed Cases:  396
+Total Existing Cases:  358
+Total Deaths: 11
+Total Recovered:  27
+Country Cuba is located at -77.781167 longitude and 21.521757 latitude.
+
+Country Name: Burkina Faso
+Country ID: 43
+Total Confirmed Cases:  384
+Total Existing Cases:  238
+Total Deaths: 19
+Total Recovered:  127
+Country Burkina Faso is located at -1.5616 longitude and 12.2383 latitude.
+
+Country Name: Taiwan*
+Country ID: 166
+Total Confirmed Cases:  379
+Total Existing Cases:  313
+Total Deaths: 5
+Total Recovered:  61
+Country Taiwan* is located at 121.0 longitude and 23.7 latitude.
+
+Country Name: Jordan
+Country ID: 95
+Total Confirmed Cases:  353
+Total Existing Cases:  209
+Total Deaths: 6
+Total Recovered:  138
+Country Jordan is located at 36.51 longitude and 31.24 latitude.
+
+Country Name: Cote d'Ivoire
+Country ID: 56
+Total Confirmed Cases:  349
+Total Existing Cases:  305
+Total Deaths: 3
+Total Recovered:  41
+Country Cote d'Ivoire is located at -5.5471 longitude and 7.54 latitude.
+
+Country Name: Honduras
+Country ID: 86
+Total Confirmed Cases:  312
+Total Existing Cases:  284
+Total Deaths: 22
+Total Recovered:  6
+Country Honduras is located at -86.2419 longitude and 15.2 latitude.
+
+Country Name: Malta
+Country ID: 116
+Total Confirmed Cases:  299
+Total Existing Cases:  294
+Total Deaths: 0
+Total Recovered:  5
+Country Malta is located at 14.3754 longitude and 35.9375 latitude.
+
+Country Name: Ghana
+Country ID: 77
+Total Confirmed Cases:  287
+Total Existing Cases:  251
+Total Deaths: 5
+Total Recovered:  31
+Country Ghana is located at -1.0232 longitude and 7.9465 latitude.
+
+Country Name: San Marino
+Country ID: 148
+Total Confirmed Cases:  279
+Total Existing Cases:  205
+Total Deaths: 34
+Total Recovered:  40
+Country San Marino is located at 12.4578 longitude and 43.9424 latitude.
+
+Country Name: Niger
+Country ID: 130
+Total Confirmed Cases:  278
+Total Existing Cases:  241
+Total Deaths: 11
+Total Recovered:  26
+Country Niger is located at 8.081666 longitude and 17.607789 latitude.
+
+Country Name: Mauritius
+Country ID: 118
+Total Confirmed Cases:  273
+Total Existing Cases:  247
+Total Deaths: 7
+Total Recovered:  19
+Country Mauritius is located at 57.552152 longitude and -20.348404 latitude.
+
+Country Name: Kyrgyzstan
+Country ID: 101
+Total Confirmed Cases:  270
+Total Existing Cases:  233
+Total Deaths: 4
+Total Recovered:  33
+Country Kyrgyzstan is located at 74.766098 longitude and 41.20438 latitude.
+
+Country Name: West Bank and Gaza
+Country ID: 181
+Total Confirmed Cases:  263
+Total Existing Cases:  218
+Total Deaths: 1
+Total Recovered:  44
+Country West Bank and Gaza is located at 35.2332 longitude and 31.9522 latitude.
+
+Country Name: Nigeria
+Country ID: 131
+Total Confirmed Cases:  254
+Total Existing Cases:  204
+Total Deaths: 6
+Total Recovered:  44
+Country Nigeria is located at 8.6753 longitude and 9.082 latitude.
+
+Country Name: Vietnam
+Country ID: 180
+Total Confirmed Cases:  251
+Total Existing Cases:  125
+Total Deaths: 0
+Total Recovered:  126
+Country Vietnam is located at 108.277199 longitude and 14.058324 latitude.
+
+Country Name: Montenegro
+Country ID: 123
+Total Confirmed Cases:  248
+Total Existing Cases:  242
+Total Deaths: 2
+Total Recovered:  4
+Country Montenegro is located at 19.37439 longitude and 42.708678 latitude.
+
+Country Name: Senegal
+Country ID: 151
+Total Confirmed Cases:  244
+Total Existing Cases:  129
+Total Deaths: 2
+Total Recovered:  113
+Country Senegal is located at -14.4524 longitude and 14.4974 latitude.
+
+Country Name: Bangladesh
+Country ID: 30
+Total Confirmed Cases:  218
+Total Existing Cases:  165
+Total Deaths: 20
+Total Recovered:  33
+Country Bangladesh is located at 90.3563 longitude and 23.685 latitude.
+
+Country Name: Bolivia
+Country ID: 37
+Total Confirmed Cases:  210
+Total Existing Cases:  193
+Total Deaths: 15
+Total Recovered:  2
+Country Bolivia is located at -63.5887 longitude and -16.2902 latitude.
+
+Country Name: Georgia
+Country ID: 76
+Total Confirmed Cases:  208
+Total Existing Cases:  157
+Total Deaths: 3
+Total Recovered:  48
+Country Georgia is located at 43.3569 longitude and 42.3154 latitude.
+
+Country Name: Sri Lanka
+Country ID: 162
+Total Confirmed Cases:  189
+Total Existing Cases:  138
+Total Deaths: 7
+Total Recovered:  44
+Country Sri Lanka is located at 80.771797 longitude and 7.873054 latitude.
+
+Country Name: Kosovo
+Country ID: 99
+Total Confirmed Cases:  184
+Total Existing Cases:  149
+Total Deaths: 5
+Total Recovered:  30
+Country Kosovo is located at 20.902977 longitude and 42.602636 latitude.
+
+Country Name: Congo (Kinshasa)
+Country ID: 54
+Total Confirmed Cases:  180
+Total Existing Cases:  153
+Total Deaths: 18
+Total Recovered:  9
+Country Congo (Kinshasa) is located at 15.307045 longitude and -4.322447 latitude.
+
+Country Name: Kenya
+Country ID: 97
+Total Confirmed Cases:  179
+Total Existing Cases:  164
+Total Deaths: 6
+Total Recovered:  9
+Country Kenya is located at 37.9062 longitude and -0.0236 latitude.
+
+Country Name: Venezuela
+Country ID: 179
+Total Confirmed Cases:  166
+Total Existing Cases:  94
+Total Deaths: 7
+Total Recovered:  65
+Country Venezuela is located at -66.5897 longitude and 6.4238 latitude.
+
+Country Name: Guinea
+Country ID: 81
+Total Confirmed Cases:  144
+Total Existing Cases:  139
+Total Deaths: 0
+Total Recovered:  5
+Country Guinea is located at -9.6966 longitude and 9.9456 latitude.
+
+Country Name: Brunei
+Country ID: 41
+Total Confirmed Cases:  135
+Total Existing Cases:  43
+Total Deaths: 1
+Total Recovered:  91
+Country Brunei is located at 114.7277 longitude and 4.5353 latitude.
+
+Country Name: Djibouti
+Country ID: 62
+Total Confirmed Cases:  135
+Total Existing Cases:  110
+Total Deaths: 0
+Total Recovered:  25
+Country Djibouti is located at 42.5903 longitude and 11.8251 latitude.
+
+Country Name: Paraguay
+Country ID: 137
+Total Confirmed Cases:  119
+Total Existing Cases:  99
+Total Deaths: 5
+Total Recovered:  15
+Country Paraguay is located at -58.4438 longitude and -23.4425 latitude.
+
+Country Name: Cambodia
+Country ID: 47
+Total Confirmed Cases:  117
+Total Existing Cases:  54
+Total Deaths: 0
+Total Recovered:  63
+Country Cambodia is located at 104.9167 longitude and 11.55 latitude.
+
+Country Name: Trinidad and Tobago
+Country ID: 171
+Total Confirmed Cases:  107
+Total Existing Cases:  98
+Total Deaths: 8
+Total Recovered:  1
+Country Trinidad and Tobago is located at -61.2225 longitude and 10.6918 latitude.
+
+Country Name: Rwanda
+Country ID: 144
+Total Confirmed Cases:  105
+Total Existing Cases:  98
+Total Deaths: 0
+Total Recovered:  7
+Country Rwanda is located at 29.8739 longitude and -1.9403 latitude.
+
+Country Name: El Salvador
+Country ID: 67
+Total Confirmed Cases:  93
+Total Existing Cases:  79
+Total Deaths: 5
+Total Recovered:  9
+Country El Salvador is located at -88.8965 longitude and 13.7942 latitude.
+
+Country Name: Madagascar
+Country ID: 111
+Total Confirmed Cases:  93
+Total Existing Cases:  82
+Total Deaths: 0
+Total Recovered:  11
+Country Madagascar is located at 46.869107 longitude and -18.766947 latitude.
+
+Country Name: Guatemala
+Country ID: 80
+Total Confirmed Cases:  80
+Total Existing Cases:  60
+Total Deaths: 3
+Total Recovered:  17
+Country Guatemala is located at -90.2308 longitude and 15.7835 latitude.
+
+Country Name: Monaco
+Country ID: 121
+Total Confirmed Cases:  79
+Total Existing Cases:  74
+Total Deaths: 1
+Total Recovered:  4
+Country Monaco is located at 7.4167 longitude and 43.7333 latitude.
+
+Country Name: Liechtenstein
+Country ID: 107
+Total Confirmed Cases:  78
+Total Existing Cases:  22
+Total Deaths: 1
+Total Recovered:  55
+Country Liechtenstein is located at 9.55 longitude and 47.14 latitude.
+
+Country Name: Togo
+Country ID: 170
+Total Confirmed Cases:  70
+Total Existing Cases:  44
+Total Deaths: 3
+Total Recovered:  23
+Country Togo is located at 0.8248 longitude and 8.6195 latitude.
+
+Country Name: Barbados
+Country ID: 31
+Total Confirmed Cases:  63
+Total Existing Cases:  54
+Total Deaths: 3
+Total Recovered:  6
+Country Barbados is located at -59.5432 longitude and 13.1939 latitude.
+
+Country Name: Jamaica
+Country ID: 93
+Total Confirmed Cases:  63
+Total Existing Cases:  50
+Total Deaths: 3
+Total Recovered:  10
+Country Jamaica is located at -77.2975 longitude and 18.1096 latitude.
+
+Country Name: Mali
+Country ID: 115
+Total Confirmed Cases:  56
+Total Existing Cases:  39
+Total Deaths: 5
+Total Recovered:  12
+Country Mali is located at -3.996166 longitude and 17.570692 latitude.
+
+Country Name: Ethiopia
+Country ID: 72
+Total Confirmed Cases:  55
+Total Existing Cases:  49
+Total Deaths: 2
+Total Recovered:  4
+Country Ethiopia is located at 40.4897 longitude and 9.145 latitude.
+
+Country Name: Uganda
+Country ID: 174
+Total Confirmed Cases:  52
+Total Existing Cases:  52
+Total Deaths: 0
+Total Recovered:  0
+Country Uganda is located at 32.290275 longitude and 1.373333 latitude.
+
+Country Name: Congo (Brazzaville)
+Country ID: 53
+Total Confirmed Cases:  45
+Total Existing Cases:  38
+Total Deaths: 5
+Total Recovered:  2
+Country Congo (Brazzaville) is located at 15.2832 longitude and -4.2634 latitude.
+
+Country Name: Zambia
+Country ID: 183
+Total Confirmed Cases:  39
+Total Existing Cases:  31
+Total Deaths: 1
+Total Recovered:  7
+Country Zambia is located at 27.849332 longitude and -13.133897 latitude.
+
+Country Name: Bahamas
+Country ID: 28
+Total Confirmed Cases:  36
+Total Existing Cases:  25
+Total Deaths: 6
+Total Recovered:  5
+Country Bahamas is located at -78.035889 longitude and 25.025885 latitude.
+
+Country Name: Guinea-Bissau
+Country ID: 82
+Total Confirmed Cases:  33
+Total Existing Cases:  33
+Total Deaths: 0
+Total Recovered:  0
+Country Guinea-Bissau is located at -15.1804 longitude and 11.8037 latitude.
+
+Country Name: Guyana
+Country ID: 83
+Total Confirmed Cases:  33
+Total Existing Cases:  20
+Total Deaths: 5
+Total Recovered:  8
+Country Guyana is located at -58.93018 longitude and 4.860416 latitude.
+
+Country Name: Eritrea
+Country ID: 69
+Total Confirmed Cases:  31
+Total Existing Cases:  31
+Total Deaths: 0
+Total Recovered:  0
+Country Eritrea is located at 39.7823 longitude and 15.1794 latitude.
+
+Country Name: Gabon
+Country ID: 74
+Total Confirmed Cases:  30
+Total Existing Cases:  28
+Total Deaths: 1
+Total Recovered:  1
+Country Gabon is located at 11.6094 longitude and -0.8037 latitude.
+
+Country Name: Benin
+Country ID: 35
+Total Confirmed Cases:  26
+Total Existing Cases:  20
+Total Deaths: 1
+Total Recovered:  5
+Country Benin is located at 2.3158 longitude and 9.3077 latitude.
+
+Country Name: Haiti
+Country ID: 84
+Total Confirmed Cases:  25
+Total Existing Cases:  24
+Total Deaths: 1
+Total Recovered:  0
+Country Haiti is located at -72.2852 longitude and 18.9712 latitude.
+
+Country Name: Tanzania
+Country ID: 167
+Total Confirmed Cases:  24
+Total Existing Cases:  18
+Total Deaths: 1
+Total Recovered:  5
+Country Tanzania is located at 34.888822 longitude and -6.369028 latitude.
+
+Country Name: Burma
+Country ID: 44
+Total Confirmed Cases:  22
+Total Existing Cases:  19
+Total Deaths: 3
+Total Recovered:  0
+Country Burma is located at 95.956 longitude and 21.9162 latitude.
+
+Country Name: Libya
+Country ID: 106
+Total Confirmed Cases:  21
+Total Existing Cases:  18
+Total Deaths: 1
+Total Recovered:  2
+Country Libya is located at 17.228331 longitude and 26.3351 latitude.
+
+Country Name: Antigua and Barbuda
+Country ID: 24
+Total Confirmed Cases:  19
+Total Existing Cases:  17
+Total Deaths: 2
+Total Recovered:  0
+Country Antigua and Barbuda is located at -61.7964 longitude and 17.0608 latitude.
+
+Country Name: Maldives
+Country ID: 114
+Total Confirmed Cases:  19
+Total Existing Cases:  6
+Total Deaths: 0
+Total Recovered:  13
+Country Maldives is located at 73.2207 longitude and 3.2028 latitude.
+
+Country Name: Syria
+Country ID: 165
+Total Confirmed Cases:  19
+Total Existing Cases:  14
+Total Deaths: 2
+Total Recovered:  3
+Country Syria is located at 38.996815 longitude and 34.802075 latitude.
+
+Country Name: Angola
+Country ID: 23
+Total Confirmed Cases:  17
+Total Existing Cases:  13
+Total Deaths: 2
+Total Recovered:  2
+Country Angola is located at 17.8739 longitude and -11.2027 latitude.
+
+Country Name: Equatorial Guinea
+Country ID: 68
+Total Confirmed Cases:  16
+Total Existing Cases:  13
+Total Deaths: 0
+Total Recovered:  3
+Country Equatorial Guinea is located at 10.2679 longitude and 1.6508 latitude.
+
+Country Name: Mongolia
+Country ID: 122
+Total Confirmed Cases:  16
+Total Existing Cases:  12
+Total Deaths: 0
+Total Recovered:  4
+Country Mongolia is located at 103.8467 longitude and 46.8625 latitude.
+
+Country Name: Namibia
+Country ID: 126
+Total Confirmed Cases:  16
+Total Existing Cases:  13
+Total Deaths: 0
+Total Recovered:  3
+Country Namibia is located at 18.4904 longitude and -22.9576 latitude.
+
+Country Name: Dominica
+Country ID: 63
+Total Confirmed Cases:  15
+Total Existing Cases:  14
+Total Deaths: 0
+Total Recovered:  1
+Country Dominica is located at -61.371 longitude and 15.415 latitude.
+
+Country Name: Fiji
+Country ID: 73
+Total Confirmed Cases:  15
+Total Existing Cases:  15
+Total Deaths: 0
+Total Recovered:  0
+Country Fiji is located at 178.065 longitude and -17.7134 latitude.
+
+Country Name: Laos
+Country ID: 102
+Total Confirmed Cases:  15
+Total Existing Cases:  15
+Total Deaths: 0
+Total Recovered:  0
+Country Laos is located at 102.495496 longitude and 19.85627 latitude.
+
+Country Name: Liberia
+Country ID: 105
+Total Confirmed Cases:  14
+Total Existing Cases:  8
+Total Deaths: 3
+Total Recovered:  3
+Country Liberia is located at -9.429499 longitude and 6.428055 latitude.
+
+Country Name: Saint Lucia
+Country ID: 146
+Total Confirmed Cases:  14
+Total Existing Cases:  13
+Total Deaths: 0
+Total Recovered:  1
+Country Saint Lucia is located at -60.9789 longitude and 13.9094 latitude.
+
+Country Name: Sudan
+Country ID: 163
+Total Confirmed Cases:  14
+Total Existing Cases:  10
+Total Deaths: 2
+Total Recovered:  2
+Country Sudan is located at 30.2176 longitude and 12.8628 latitude.
+
+Country Name: Grenada
+Country ID: 79
+Total Confirmed Cases:  12
+Total Existing Cases:  12
+Total Deaths: 0
+Total Recovered:  0
+Country Grenada is located at -61.679 longitude and 12.1165 latitude.
+
+Country Name: Saint Kitts and Nevis
+Country ID: 145
+Total Confirmed Cases:  11
+Total Existing Cases:  11
+Total Deaths: 0
+Total Recovered:  0
+Country Saint Kitts and Nevis is located at -62.782998 longitude and 17.357822 latitude.
+
+Country Name: Seychelles
+Country ID: 153
+Total Confirmed Cases:  11
+Total Existing Cases:  11
+Total Deaths: 0
+Total Recovered:  0
+Country Seychelles is located at 55.492 longitude and -4.6796 latitude.
+
+Country Name: Zimbabwe
+Country ID: 184
+Total Confirmed Cases:  11
+Total Existing Cases:  9
+Total Deaths: 2
+Total Recovered:  0
+Country Zimbabwe is located at 29.154857 longitude and -19.015438 latitude.
+
+Country Name: Chad
+Country ID: 50
+Total Confirmed Cases:  10
+Total Existing Cases:  8
+Total Deaths: 0
+Total Recovered:  2
+Country Chad is located at 18.7322 longitude and 15.4542 latitude.
+
+Country Name: Eswatini
+Country ID: 71
+Total Confirmed Cases:  10
+Total Existing Cases:  6
+Total Deaths: 0
+Total Recovered:  4
+Country Eswatini is located at 31.4659 longitude and -26.5225 latitude.
+
+Country Name: Mozambique
+Country ID: 125
+Total Confirmed Cases:  10
+Total Existing Cases:  9
+Total Deaths: 0
+Total Recovered:  1
+Country Mozambique is located at 35.529562 longitude and -18.665695 latitude.
+
+Country Name: Suriname
+Country ID: 164
+Total Confirmed Cases:  10
+Total Existing Cases:  6
+Total Deaths: 1
+Total Recovered:  3
+Country Suriname is located at -56.0278 longitude and 3.9193 latitude.
+
+Country Name: MS Zaandam
+Country ID: 110
+Total Confirmed Cases:  9
+Total Existing Cases:  7
+Total Deaths: 2
+Total Recovered:  0
+Country MS Zaandam is located at None longitude and None latitude.
+
+Country Name: Nepal
+Country ID: 127
+Total Confirmed Cases:  9
+Total Existing Cases:  8
+Total Deaths: 0
+Total Recovered:  1
+Country Nepal is located at 84.25 longitude and 28.1667 latitude.
+
+Country Name: Belize
+Country ID: 34
+Total Confirmed Cases:  8
+Total Existing Cases:  7
+Total Deaths: 1
+Total Recovered:  0
+Country Belize is located at -88.4976 longitude and 17.1899 latitude.
+
+Country Name: Central African Republic
+Country ID: 49
+Total Confirmed Cases:  8
+Total Existing Cases:  8
+Total Deaths: 0
+Total Recovered:  0
+Country Central African Republic is located at 20.9394 longitude and 6.6111 latitude.
+
+Country Name: Malawi
+Country ID: 112
+Total Confirmed Cases:  8
+Total Existing Cases:  7
+Total Deaths: 1
+Total Recovered:  0
+Country Malawi is located at 34.301525 longitude and -13.254308 latitude.
+
+Country Name: Saint Vincent and the Grenadines
+Country ID: 147
+Total Confirmed Cases:  8
+Total Existing Cases:  7
+Total Deaths: 0
+Total Recovered:  1
+Country Saint Vincent and the Grenadines is located at -61.2872 longitude and 12.9843 latitude.
+
+Country Name: Somalia
+Country ID: 158
+Total Confirmed Cases:  8
+Total Existing Cases:  7
+Total Deaths: 0
+Total Recovered:  1
+Country Somalia is located at 46.199616 longitude and 5.152149 latitude.
+
+Country Name: Cabo Verde
+Country ID: 46
+Total Confirmed Cases:  7
+Total Existing Cases:  5
+Total Deaths: 1
+Total Recovered:  1
+Country Cabo Verde is located at -23.0418 longitude and 16.5388 latitude.
+
+Country Name: Holy See
+Country ID: 85
+Total Confirmed Cases:  7
+Total Existing Cases:  7
+Total Deaths: 0
+Total Recovered:  0
+Country Holy See is located at 12.4534 longitude and 41.9029 latitude.
+
+Country Name: Sierra Leone
+Country ID: 154
+Total Confirmed Cases:  7
+Total Existing Cases:  7
+Total Deaths: 0
+Total Recovered:  0
+Country Sierra Leone is located at -11.779889 longitude and 8.460555 latitude.
+
+Country Name: Botswana
+Country ID: 39
+Total Confirmed Cases:  6
+Total Existing Cases:  5
+Total Deaths: 1
+Total Recovered:  0
+Country Botswana is located at 24.6849 longitude and -22.3285 latitude.
+
+Country Name: Mauritania
+Country ID: 117
+Total Confirmed Cases:  6
+Total Existing Cases:  3
+Total Deaths: 1
+Total Recovered:  2
+Country Mauritania is located at -10.9408 longitude and 21.0079 latitude.
+
+Country Name: Nicaragua
+Country ID: 129
+Total Confirmed Cases:  6
+Total Existing Cases:  5
+Total Deaths: 1
+Total Recovered:  0
+Country Nicaragua is located at -85.207229 longitude and 12.865416 latitude.
+
+Country Name: Bhutan
+Country ID: 36
+Total Confirmed Cases:  5
+Total Existing Cases:  3
+Total Deaths: 0
+Total Recovered:  2
+Country Bhutan is located at 90.4336 longitude and 27.5142 latitude.
+
+Country Name: Gambia
+Country ID: 75
+Total Confirmed Cases:  4
+Total Existing Cases:  1
+Total Deaths: 1
+Total Recovered:  2
+Country Gambia is located at -15.3101 longitude and 13.4432 latitude.
+
+Country Name: Sao Tome and Principe
+Country ID: 149
+Total Confirmed Cases:  4
+Total Existing Cases:  4
+Total Deaths: 0
+Total Recovered:  0
+Country Sao Tome and Principe is located at 6.613081 longitude and 0.18636 latitude.
+
+Country Name: Western Sahara
+Country ID: 182
+Total Confirmed Cases:  4
+Total Existing Cases:  4
+Total Deaths: 0
+Total Recovered:  0
+Country Western Sahara is located at -12.8858 longitude and 24.2155 latitude.
+
+Country Name: Burundi
+Country ID: 45
+Total Confirmed Cases:  3
+Total Existing Cases:  3
+Total Deaths: 0
+Total Recovered:  0
+Country Burundi is located at 29.9189 longitude and -3.3731 latitude.
+
+Country Name: Papua New Guinea
+Country ID: 136
+Total Confirmed Cases:  2
+Total Existing Cases:  2
+Total Deaths: 0
+Total Recovered:  0
+Country Papua New Guinea is located at 143.95555 longitude and -6.314993 latitude.
+
+Country Name: South Sudan
+Country ID: 160
+Total Confirmed Cases:  2
+Total Existing Cases:  2
+Total Deaths: 0
+Total Recovered:  0
+Country South Sudan is located at 31.307 longitude and 6.877 latitude.
+
+Country Name: Timor-Leste
+Country ID: 169
+Total Confirmed Cases:  1
+Total Existing Cases:  1
+Total Deaths: 0
+Total Recovered:  0
+Country Timor-Leste is located at 125.727539 longitude and -8.874217 latitude.
+
+
+
+This is a list of data specifically from the US:
+Country ID: 18
+Country: US
+Country US currently has 399979 cases
+Total Existing Cases:  0
+Deaths US : 12912
+Recovered in US : 399979
+Country US is located at -100.0 longitude and 40.0 latitude.
+
+
+This is a list of the world data as a whole
+Confirmed Cases Worldwide:  1450343
+Existing Cases Worldwide:  680161
+Total Deaths Worldwide:  83568
+Total Recovered Worldwide:  308617
