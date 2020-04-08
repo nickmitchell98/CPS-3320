@@ -11,7 +11,7 @@ covid = Covid(source="john_hopkins")
 #Get Country id's
 countries = json.dumps(covid.list_countries(),sort_keys = True, indent = 4)
 countryData = json.loads(countries)
-
+print("The COVID-19 data shown below is from",covid.source)
 
 print("This is a list of infected countries associated with their id's:")
 #neatly prints out countries
@@ -58,7 +58,6 @@ print("Recovered in", US['country'],":",US['confirmed'])
 print("Country", US['country'], "is located at", US["longitude"], "longitude and",US["latitude"],"latitude.")
 print()
 print()
-
 
 #Prints World Total
 
