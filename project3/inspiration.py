@@ -3,6 +3,7 @@ import datetime
 import csv
 import matplotlib.pyplot as plt
 
+#File personalStats.csv required
 #quote API
 url = "https://freequote.herokuapp.com/"
 
@@ -12,7 +13,6 @@ data = response.json()
 
 #print quote
 print(data["quote"])
-
 
 #Print author
 if len(data["author"]) > 0:
