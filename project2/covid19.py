@@ -11,6 +11,8 @@ covid = Covid(source="john_hopkins")
 #Get Country id's
 countries = json.dumps(covid.list_countries(),sort_keys = True, indent = 4)
 countryData = json.loads(countries)
+
+#prints source
 print("The COVID-19 data shown below is from",covid.source)
 
 print("This is a list of infected countries associated with their id's:")
